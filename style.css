@@ -20,3 +20,10 @@ nav {
   font-family: 'Open Sans', sans-serif;
   border: 0;
 }
+
+#nav a: link, #nav a:visited {
+display: block;
+color: #fffff;
+background color: #98bf21;
+  
+}
