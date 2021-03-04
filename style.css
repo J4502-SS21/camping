@@ -19,6 +19,8 @@ h1 {
   font color: rgb(255, 255, 255);
   background-color: blue
   overflow: hidden;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 h2 {
