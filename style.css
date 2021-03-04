@@ -1,3 +1,8 @@
+h1 {
+  font-family: 'Lexend Mega', sans-serif;
+}
+
+
 body {
   background: grey;
   text-align: center;
@@ -8,8 +13,6 @@ body {
   font-weight: bold;
   padding-bottom: 10px;
   font-family: 'Noto Sans JP', sans-serif;
-
-
 }
 
 
