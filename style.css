@@ -6,8 +6,23 @@ h1 {
   width: 100%;
   font-size: 18px;
   font-weight: bold;
+  padding-top: 20px;
   padding-bottom: 10px;
   font-family: 'Noto Sans JP', sans-serif;
+}
+
+
+#topnav a: link, #topnav a:visited {
+display: block;
+color: #fffff;
+background color: (98bf21);
+}
+
+
+.topnav {
+  <font color = "rgb(255,255,255)">
+  background-color: blue
+  overflow: hidden;
 }
 
 h2 {
@@ -35,17 +50,3 @@ body {
   padding-bottom: 10px;
   font-family: 'Noto Sans JP', sans-serif;
 }
-
-
-
-#nav a: link, #nav a:visited {
-display: block;
-color: #fffff;
-background color: (98bf21);
-}
-
-
-.topnav {
-  <font color = "rgb(255,255,255)">
-  background-color: blue
-  overflow: hidden;
