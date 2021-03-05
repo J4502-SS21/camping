@@ -6,7 +6,7 @@ h1 {
   width: 100%;
   font-size: 24px;
   font-weight: bold;
-  padding-top: 20px;
+  padding-top: 22px;
   padding-bottom: 10px;
   font-family: 'Noto Sans JP', sans-serif;
 }
@@ -27,7 +27,7 @@ a:link {
 }
 
 a:visited {
-  color: grey;
+  color: black;
 }
 
 a:hover {
@@ -44,7 +44,7 @@ h2 {
   color: black;
   margin: 0;
   width: 100%;
-  font-size: 18px;
+  font-size: 20px;
   font-weight: bold;
   padding-top: 20px;
   padding-bottom: 10px;
