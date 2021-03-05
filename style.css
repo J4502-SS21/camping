@@ -22,6 +22,22 @@ h1 {
   padding-bottom: 10px;
 }
 
+a:link {
+  color: red;
+}
+
+a:visited {
+  color: green;
+}
+
+a:hover {
+  color: hotpink;
+}
+
+a:active {
+  color: blue;
+}
+
 h2 {
   background: grey;
   text-align: center;
