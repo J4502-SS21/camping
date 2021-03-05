@@ -47,3 +47,12 @@ body {
   padding-bottom: 10px;
   font-family: 'Noto Sans JP', sans-serif;
 }
+
+.botttom {
+  background-color: rgb(170, 56, 30);
+  font-size: 18px;
+  font color: white;
+  overflow: hidden;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
