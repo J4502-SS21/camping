@@ -16,17 +16,17 @@ h1 {
 width: 100%;
 text-align: center;
 overflow: hidden;
-padding: 10px 0px;
 overflow: hidden;
+padding: 10px 0px;
 }
 
 .topnav {
   background-color: rgb(170, 56, 30);
-  font-size: 18px;
+  font-size: 16px;
 }
 
  .bottomnav {
-   font color: white;
+   color: white;
    background-color: rgb(89, 39, 32);
    font-size: 14px;
    text-align: center;
@@ -36,6 +36,14 @@ overflow: hidden;
 .campingimage {
   padding-right: 40px;
   padding-left:  40px;
+}
+
+.home {
+text-align: left;
+padding-left: 40px;
+padding-right: 20px;
+padding-top: 20px;
+padding-bottom: 0px;
 }
 
 .p {
@@ -53,13 +61,14 @@ overflow: hidden;
 
 .p2 {
   text-align: left;
+  padding-top: 20px;
   padding-left: 40px;
   padding-right: 40px;
 }
 
 .graphic {
-  padding-left: 40px;
-  padding-right: 40px;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 a:link {
@@ -85,15 +94,17 @@ h2 {
   color: black;
   margin: 0;
   width: 100%;
-  font-size: 20px;
+  font-size: 22px;
   padding-top: 20px;
-  padding-bottom: 10px;
+  padding-bottom: 30px;
   font-family: 'Lexend Mega', sans-serif;
 }
+
 
 h4 {
   color: white;
 }
+
 body {
   background: rgb(166,178,184);
   color: black;
@@ -102,6 +113,5 @@ body {
   font-size: 12px;
   text-align: center;
   font-weight: bold;
-  padding-bottom: 10px;
   font-family: 'Noto Sans JP', sans-serif;
 }
