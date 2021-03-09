@@ -16,8 +16,7 @@ h1 {
 width: 100%;
 text-align: center;
 overflow: hidden;
-padding-top: 10px;
-padding-bottom: 10px;
+padding: 10px 0px;
 overflow: hidden;
 }
 
@@ -29,7 +28,8 @@ overflow: hidden;
  .bottomnav {
    font color: white;
    background-color: rgb(89, 39, 32);
-   font-size: 16px;
+   font-size: 14px;
+   text-align: center;
  }
 
 
@@ -61,6 +61,7 @@ overflow: hidden;
   padding-left: 40px;
   padding-right: 40px;
 }
+
 a:link {
   color: black;
   text-decoration: none;
@@ -90,6 +91,9 @@ h2 {
   font-family: 'Lexend Mega', sans-serif;
 }
 
+h4 {
+  color: white;
+}
 body {
   background: rgb(166,178,184);
   color: black;
