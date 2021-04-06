@@ -28,6 +28,12 @@ overflow: hidden;
 padding: 10px 0px;
 }
 
+.menu_nav {
+  background-color: rgb(170, 56, 30);
+  font-size: 16px;
+}
+
+
 .topnav {
   background-color: rgb(170, 56, 30);
   font-size: 16px;
@@ -122,4 +128,31 @@ body {
   text-align: center;
   font-weight: bold;
   font-family: 'Noto Sans JP', sans-serif;
+}
+
+#menu_trigger {
+  display: none;
+}
+
+@media (max-width: 700px) {
+  ul {
+    flex-direction: column;
+  }
+
+  li {
+    width: 50%;
+  }
+
+}
+
+
+#menu_nav {
+  display:none;
+}
+
+#menu_trigger {
+  display: block;
+  position: absolute;
+  right: 10px;
+  top: 10px;
 }
