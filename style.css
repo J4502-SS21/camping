@@ -74,6 +74,10 @@ padding: 1px 0px;
 }
 
  .bottomnav {
+   width: 100%;
+   overflow: hidden;
+   overflow: hidden;
+   padding: 1px 0px;
    color: white;
    background-color: rgb(89, 39, 32);
    font-size: 14px;
