@@ -81,6 +81,25 @@ padding: 1px 0px;
    padding: 10px;
  }
 
+ nav a:link {
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+  }
+
+nav a:active {
+  color: black;
+}
+
+ nav a:visited {
+   color: black;
+ }
+
+ nav a:hover {
+   color: rgb(175,110,77);
+ }
+
+
 .campingimage {
   padding-right: 40px;
   padding-left:  40px;
@@ -138,11 +157,13 @@ font-size: 15px;
 }
 
 a:link {
-  color: rgb(175,110,77);
+  color: #2B300D;
+  font-weight: bold;
   text-decoration: none;
 }
+
 a:visited {
-  color: black;
+  color: #2B300D;
 }
 
 a:hover {
