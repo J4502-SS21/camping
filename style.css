@@ -48,7 +48,11 @@ grid-template-columns: 1fr 1fr 1fr;
 
 img {
     display: inline-block;
-    margin: 25px 10px;
+    margin: 10px 10px;
+    width: 700px;
+    height: 300px;
+    object-fit: fill;
+    max-width: 100%;
   }
 
 .navbar {
