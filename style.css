@@ -225,6 +225,11 @@ body {
 }
 
 @media (max-width: 700px) {
+  img {
+    display:flex;
+    flex-direction: column;
+  }
+
   ul {
     flex-direction: column;
   }
