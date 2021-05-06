@@ -55,6 +55,15 @@ img {
     max-width: 100%;
   }
 
+.tree {
+  display: inline-block;
+  margin: 10px 10px;
+  width: 700px;
+  height: 300px;
+  object-fit: fill;
+  max-width: 100%;
+}
+
 .navbar {
 width: 100%;
 font-weight: bold;
