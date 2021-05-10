@@ -53,10 +53,24 @@ img {
     height: 300px;
     object-fit: fill;
     max-width: 100%;
+    border: 0;
   }
 
 .sign {
   align-self: right;
+}
+
+
+.campfire {
+  border: 0;
+}
+
+.camping {
+
+}
+
+.newton {
+  
 }
 
 
