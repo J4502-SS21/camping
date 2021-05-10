@@ -55,14 +55,6 @@ img {
     max-width: 100%;
   }
 
-.tree {
-  display: inline-block;
-  margin: 10px 10px;
-  width: 700px;
-  height: 300px;
-  object-fit: fill;
-  max-width: 100%;
-}
 
 .navbar {
 width: 100%;
@@ -96,20 +88,21 @@ padding: 1px 0px;
    font-size: 14px;
    text-align: center;
    padding: 10px;
+   color: white;
  }
 
  nav a:link {
-    color: black;
+    color: white;
     font-weight: bold;
     text-decoration: none;
   }
 
 nav a:active {
-  color: black;
+  color: white;
 }
 
  nav a:visited {
-   color: black;
+   color: white;
  }
 
  nav a:hover {
