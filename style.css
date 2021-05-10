@@ -55,6 +55,7 @@ img {
     max-width: 100%;
   }
 
+
 .navbar {
 width: 100%;
 font-weight: bold;
@@ -68,6 +69,7 @@ padding: 1px 0px;
   background-color: rgb(170, 56, 30);
   font-size: 16px;
   padding: 1px 0px;
+  color: white;
 }
 
 
@@ -75,6 +77,7 @@ padding: 1px 0px;
   background-color: rgb(170, 56, 30);
   font-size: 16px;
   padding: 1px 0px;
+  color: white;
 }
 
  .bottomnav {
@@ -87,24 +90,25 @@ padding: 1px 0px;
    font-size: 14px;
    text-align: center;
    padding: 10px;
+   color: rgb(175,110,77);
  }
 
  nav a:link {
-    color: black;
+    color: white;
     font-weight: bold;
     text-decoration: none;
   }
 
 nav a:active {
-  color: black;
+  color: white;
 }
 
  nav a:visited {
-   color: black;
+   color: white;
  }
 
  nav a:hover {
-   color: rgb(175,110,77);
+   color: rgb(89, 39, 32);
  }
 
 
@@ -157,6 +161,16 @@ font-size: 15px;
   padding-left: 0px;
   padding-right: 0px;
   font-size: 15px;
+}
+
+.p4 {
+  text-align: center;
+  padding-top: 20px;
+  padding-left: 0px;
+  padding-right: 0px;
+  font-size: 18px;
+  font-weight: 400;
+
 }
 
 .graphic {
