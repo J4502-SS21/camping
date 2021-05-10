@@ -184,11 +184,11 @@ a:link {
 }
 
 a:visited {
-  color: #2B300D;
+  color: black;
 }
 
 a:hover {
-  color: rgb(175,110,77);
+  color: rgb(170, 56, 30);;
 }
 
 a:active {
