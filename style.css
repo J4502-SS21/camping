@@ -55,6 +55,10 @@ img {
     max-width: 100%;
   }
 
+.sign {
+  align-self: right;
+}
+
 
 .navbar {
 width: 100%;
