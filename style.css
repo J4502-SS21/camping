@@ -56,7 +56,14 @@ img {
     border: 0;
   }
 
+.sign {
+  width: 500px;
+  height: 200px;
+  text-align: center;
+  align-items: center;
+  display: inline-block;
 
+}
 .campfire {
   border: 0;
 }
@@ -69,6 +76,8 @@ img {
   border: 0;
   width: 200px;
   height: 300px;
+  text-align: center;
+  display: inline-block;
 }
 
 
@@ -103,7 +112,7 @@ color: white;
    overflow: hidden;
    padding: 1px 0px;
    color: white;
-   background-color: rgb(89, 39, 32);
+    background-color: rgb(170, 56, 30);
    font-size: 14px;
    text-align: center;
    padding: 10px;
@@ -205,7 +214,7 @@ a:visited {
 }
 
 a:hover {
-  color: rgb(170, 56, 30);
+  color: rgb(0, 100, 0);
 }
 
 a:active {
@@ -217,6 +226,7 @@ ul {
   list-style-type: none;
   list-style-position: inside;
   box-sizing: border-box;
+  font-size: 13px;
 }
 
 li {
