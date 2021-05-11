@@ -68,6 +68,10 @@ img {
   border: 0;
 }
 
+.campsite {
+
+}
+
 .newton {
   border: 0;
   width: 200px;
@@ -131,6 +135,9 @@ nav a:active {
    color: rgb(89, 39, 32);
  }
 
+.demo {
+  font-size: 20px;
+}
 
 .campingimage {
   padding-right: 40px;
